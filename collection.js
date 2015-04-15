@@ -2,8 +2,8 @@
 {"moduleId":"maps4all/mapquest"},
 {"moduleId":"mapman100/Here"},
 {"moduleId":"coolmapper01/ca-gov"},
-{"moduleId":"Fritz911/osm"},
+{"moduleId":"jamesbond002/osm"},
 {"moduleId":"wazemap/waze"},
-{"moduleId":"wikifan/wikimap"},
+{"moduleId":"wazemap/wikimapp"},
 {"moduleId":"grabowCommuter/Speedometer"}
 ]
