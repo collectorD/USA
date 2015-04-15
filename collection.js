@@ -1,0 +1,9 @@
+[
+{"moduleId":"maps4all/mapquest"},
+{"moduleId":"mapman100/Here"},
+{"moduleId":"coolmapper01/ca-gov"},
+{"moduleId":"Fritz911/osm"},
+{"moduleId":"wazemap/waze"},
+{"moduleId":"wikifan/wikimap"},
+{"moduleId":"grabowCommuter/Speedometer"}
+]
