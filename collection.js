@@ -4,6 +4,6 @@
 {"moduleId":"coolmapper01/ca-gov"},
 {"moduleId":"jamesbond002/osm"},
 {"moduleId":"wazemap/waze"},
-{"moduleId":"wazemap/wikimapp"},
+{"moduleId":"wazemap/wikimap"},
 {"moduleId":"grabowCommuter/Speedometer"}
 ]
