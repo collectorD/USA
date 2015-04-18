@@ -1,5 +1,5 @@
 [
-{"moduleId":"maps4all/mapquest"},
+{"moduleId":"coolmapper01/mapquest"},
 {"moduleId":"mapman100/Here"},
 {"moduleId":"coolmapper01/ca-gov"},
 {"moduleId":"jamesbond002/osm"},
